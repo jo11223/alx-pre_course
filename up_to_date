@@ -1,0 +1,6 @@
+git add .
+git commit -m 'message'
+git push
+git checkout branch
+git origin local-branch-name:remote-branch-name
+
